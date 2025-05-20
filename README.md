@@ -6,4 +6,4 @@ We strongly suggest that you use a virtual environment to work on. You need Gstr
 
 ## How To Use
 
-Launch Server then Processor in separate processes. After that, you are free to launch as much clients as you want.
+Launch Server then Processor in separate processes. After that, you are free to launch as many clients as you want.
